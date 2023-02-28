@@ -1,4 +1,4 @@
-### Hi there 👋
+### i'm unity game developer 👋
 
 <!--
 **VirtueSky/VirtueSky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
