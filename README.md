@@ -1,10 +1,12 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm Duc</h1>
 <h3 align="center">I'm a unity game developer</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ducnv52&label=Profile%20views&color=0e75b6&style=flat" alt="ducnv52" /> </p>
 
+<p align="center">
+  <img  src = "https://github-production-user-asset-6210df.s3.amazonaws.com/126542083/274267368-16f24162-5de4-4510-a52d-75f4c1335fc1.PNG" width="300" height = "300">
+</p>
 
-  <img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
+<img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
 ### ✏️ Intro
 - 🎗️ I graduated from [University of Engineering and Technology (UET),  Vietnam National University, Hanoi (VNU)](https://uet.vnu.edu.vn/)
