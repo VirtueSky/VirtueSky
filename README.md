@@ -15,7 +15,7 @@
 
 - 👨‍💻 I am working at [Gamee Studio Company](https://gameestudio.com/)
 
-- 💪 Target: **Develop many good game products on unity platform**
+- 💪 Target: **Develop many good game products on unity engine**
 
 - ⚡ My strengths: **Sociable, funny but always serious at work, good teamwork, always ready to work overtime when needed**
 
