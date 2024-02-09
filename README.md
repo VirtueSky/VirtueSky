@@ -19,7 +19,18 @@
 
 - ⚡ My strengths: **Sociable, funny but always serious at work, good teamwork, always ready to work overtime when needed**
 
-- 🎤 Fun fact **: I'm an introvert but I love to sing**
+
+### ✏️ Core build game (Scriptable architecture)
+<details><summary>⬇️ Sunflower [Package support build game unity]</summary>
+
+- Source code [Link gitHub](https://github.com/VirtueSky/sunflower)
+
+</details>
+<details><summary>⬇️ The Beginning [Game Base use (sunflower - Scriptable architecture)]</summary>
+
+- Source code [Link gitHub](https://github.com/VirtueSky/TheBeginning)
+
+</details>
 
 ### ✏️ Project Game Unity
 <details><summary>⬇️ I developed the game <b>Party Prank: Drink Challenge</b></summary>
@@ -78,19 +89,6 @@
 - Game Rapid Roll [Link GitHub](https://github.com/ducnv52/Rapid-Roll)
 - Game Asteroids [Link GitHub](https://github.com/ducnv52/Asteroids_Unity)
 - Game Brick Break [Link GitHub](https://github.com/ducnv52/bick-break)  
-</details>
-
-### ✏️ Project Android
-<details><summary>⬇️ Schedule Management App (fullstack)</summary>
-
-- Source code app android kotlin [Link gitHub](https://github.com/ducnv52/khoaLuan)
-- Source code web api (backend with .netcore 3.1) [Link gitHub](https://github.com/ducnv52/DoAn_BE)
-- Source code management website (vue.js) [Link gitHub](https://github.com/ducnv52/web-quan-tri-khoa-luan)
-</details>
-<details><summary>⬇️ Weather App</summary>
-
-- Source code [Link gitHub](https://github.com/ducnv52/weather-app-android)
-
 </details>
 
 ### ✏️ Project Game C++
