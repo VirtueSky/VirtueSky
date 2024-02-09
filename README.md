@@ -32,7 +32,7 @@
 
 </details>
 
-### ✏️ Project Game Unity
+### ✏️ Project public Game Unity
 <details><summary>⬇️ I developed the game <b>Party Prank: Drink Challenge</b></summary>
   
 <img src="https://play-lh.googleusercontent.com/SsMmlio3zgorgJ_6Uip_EdBE2I_WVKaoftiKWZAYHk2rwGbF97j5Bpm2oGymaCwiIi0=w240-h480-rw" width="100" height="100" />
