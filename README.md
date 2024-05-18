@@ -21,16 +21,19 @@
 
 
 ### ✏️ Core build game (Scriptable architecture)
-<details><summary>⬇️ Sunflower [Package support build game unity]</summary>
+<details><summary>⬇️ Use scriptable architecture</summary>
 
-- Source code [Link gitHub](https://github.com/VirtueSky/sunflower)
-
-</details>
-<details><summary>⬇️ The Beginning [Game Base use (sunflower - Scriptable architecture)]</summary>
-
-- Source code [Link gitHub](https://github.com/VirtueSky/TheBeginning)
+- [Core package (sunflower)](https://github.com/VirtueSky/sunflower)
+- [Project implement (Thebeginning)](https://github.com/VirtueSky/TheBeginning)
 
 </details>
+<details><summary>⬇️ Use singleton</summary>
+
+- [Core package (unity-common)](https://github.com/wolf-package/unity-common)
+- [Project implement (Thebeginning_2)](https://github.com/VirtueSky/TheBeginning_2)
+
+</details>
+
 
 ### ✏️ Project public Game Unity
 <details><summary>⬇️ I developed the game <b>Party Prank: Drink Challenge</b></summary>
