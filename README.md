@@ -8,6 +8,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
+<!--
 ### ✏️ Intro
 - 🎗️ I graduated from [University of Engineering and Technology (UET),  Vietnam National University, Hanoi (VNU)](https://uet.vnu.edu.vn/)
 
@@ -18,7 +19,7 @@
 - 💪 Target: **Develop many good game products on unity engine**
 
 - ⚡ My strengths: **Sociable, funny but always serious at work, good teamwork, always ready to work overtime when needed**
-
+-->
 
 ### ✏️ Core build game (Scriptable architecture)
 <details><summary>⬇️ Use scriptable architecture</summary>
@@ -85,6 +86,7 @@
 
 </details>
 
+<!--
 <details><summary>⬇️ Some mini game</summary>
 
 - Game MiniSweeper [Link gitHub](https://github.com/ducnv52/MiniSweeperUnity)
@@ -106,7 +108,7 @@
 
 </details>
 
-
+-->
 
 
 
