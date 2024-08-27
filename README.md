@@ -38,7 +38,7 @@
 ### ✏️ Project public Game Unity
 <details><summary>⬇️ I developed the game <b>Party Prank: Drink Challenge</b></summary>
   
-<img src="https://play-lh.googleusercontent.com/SsMmlio3zgorgJ_6Uip_EdBE2I_WVKaoftiKWZAYHk2rwGbF97j5Bpm2oGymaCwiIi0=w240-h480-rw" width="100" height="100" />
+<img src="https://play-lh.googleusercontent.com/9v3Uf1Se3LOFAfPNAncb3qKMdNN0sqW9gDSUFqOImzPmjSIvOscOtvQN2hULBZdgD8c=w526-h296-rw"/>
   
 - [Android](https://play.google.com/store/apps/details?id=com.Gamee.PartyPrankChallenge&hl=en)
 - [iOS](https://apps.apple.com/app/id1631497447?fbclid=IwAR1Z3z22adVeAOLo11Ls9eQrJdpJ1DgY1KaRZnCf_npnKtRRtgs4Pk6JzJI)
@@ -47,13 +47,19 @@
 
 <details><summary>⬇️ I developed the game <b>Home Pin 3D</b></summary>
 
-<img src="https://play-lh.googleusercontent.com/jjmHhJ3EiM4ujZHxN4pNSvTwH_xZTAtoNfF6wwafkUZgoGnajvFEXI65jtVIvADF7tU-=s96-rw" width="100" height="100" />
+<img src="https://play-lh.googleusercontent.com/hE9KvvMiFbL8DKryRZ1jwmfkDICotSA24Rh-eVQYYkkvK89tSGfDCGSEoMouV5mxoA=w526-h296-rw" />
 
 - [Android](https://play.google.com/store/apps/details?id=com.gamee.brainly.homepin3.pullpin.puzzle)
 - [iOS](https://apps.apple.com/vn/app/home-pin-3d/id6451407662?l=vi)
   
 </details>
+<details><summary>⬇️ I developed the game <b>Left or Right: Fashion MasterD</b></summary>
 
+<img src="https://play-lh.googleusercontent.com/4rR2H9UKDOBkhRhJMSGFx4i6iBZYpftMAphDVw51v2aUi9iWgvbM5sSfN3qDKV-U8ks=w526-h296-rw" />
+
+- [Android](https://play.google.com/store/apps/details?id=com.gamee.leftorright.makeover.fashion)
+
+</details>
 <details><summary>⬇️ I developed the game <b>Rainbow Alphabet Escape 3D</b></summary>
 
 <img src="https://play-lh.googleusercontent.com/XKVCtxX_Ws4ksCo18hXieSoeOkoKvZ34CQ07j3-H2AH8b1BLH6WnVPT1F3qGHY8GAbo=w240-h480-rw" width="100" height="100" />
@@ -70,7 +76,7 @@
 </details>
 <details><summary>⬇️ I developed with the game team <b>Pull Pin Out 3D</b></summary>
 
-<img src="https://play-lh.googleusercontent.com/KeqO81pupo8jvmHxowXYdnLDqGDG58na8H__xVWpeVfURtb3bebnYkWi45plE7YejcQ=s48-rw" width="100" height="100" />
+<img src="https://play-lh.googleusercontent.com/rOrNUPzIrt6OnXYFA2hojiKWtQIxduAlJrwZCie8EiXSOWTNbxUmxecdu3ouRsV60Q=w526-h296-rw"/>
 
 - [Android](https://play.google.com/store/apps/details?id=com.gamee.pull.pin.puzzle&hl=en)
 - [iOS](https://apps.apple.com/us/app/pull-pin-out-3d/id6443933564)
