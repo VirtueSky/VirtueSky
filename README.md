@@ -21,28 +21,27 @@
 - ⚡ My strengths: **Sociable, funny but always serious at work, good teamwork, always ready to work overtime when needed**
 -->
 
-### ✏️ Core build game (Scriptable architecture)
-<details><summary>⬇️ Use scriptable architecture</summary>
+### ✏️ Unity Package / Tool
 
-- [Core package (sunflower)](https://github.com/VirtueSky/sunflower)
-- [Project implement (Thebeginning)](https://github.com/VirtueSky/TheBeginning)
+- [Sunflower](https://github.com/VirtueSky/sunflower)
+- [Sunflower_2](https://github.com/wolf-org/sunflower_2)
+- [Advertising](https://github.com/wolf-org/advertising-unity)
+- [In App Purchasing](https://github.com/wolf-org/in-app-purchasing-unity)
+- [Game Data System](https://github.com/wolf-org/game-data-unity)
+- [Object Pooling](https://github.com/wolf-org/object-pooling-unity)
+- [Tracking](https://github.com/wolf-org/app-tracking-unity)
+- [Firebase Remote Config](https://github.com/wolf-org/remote-config-manager-unity)
 
-</details>
-<details><summary>⬇️ Use singleton</summary>
-
-- [Core package (unity-common)](https://github.com/wolf-package/unity-common)
-- [Project implement (Thebeginning_2)](https://github.com/VirtueSky/TheBeginning_2)
-
-</details>
-
-
+### ✏️ Project Template
+- [Thebeginning](https://github.com/VirtueSky/TheBeginning)
+- [Thebeginning_2](https://github.com/VirtueSky/TheBeginning_2)
 ### ✏️ Project public Game Unity
 <details><summary>⬇️ I developed the game <b>Party Prank: Drink Challenge</b></summary>
   
 <img src="https://play-lh.googleusercontent.com/SsMmlio3zgorgJ_6Uip_EdBE2I_WVKaoftiKWZAYHk2rwGbF97j5Bpm2oGymaCwiIi0=w240-h480-rw" width="100" height="100" />
   
-- Android [Link Google Store](https://play.google.com/store/apps/details?id=com.Gamee.PartyPrankChallenge&hl=en)
-- Ios [Link Apple Store](https://apps.apple.com/app/id1631497447?fbclid=IwAR1Z3z22adVeAOLo11Ls9eQrJdpJ1DgY1KaRZnCf_npnKtRRtgs4Pk6JzJI)
+- [Android](https://play.google.com/store/apps/details?id=com.Gamee.PartyPrankChallenge&hl=en)
+- [iOS](https://apps.apple.com/app/id1631497447?fbclid=IwAR1Z3z22adVeAOLo11Ls9eQrJdpJ1DgY1KaRZnCf_npnKtRRtgs4Pk6JzJI)
 
 </details>
 
@@ -50,8 +49,8 @@
 
 <img src="https://play-lh.googleusercontent.com/jjmHhJ3EiM4ujZHxN4pNSvTwH_xZTAtoNfF6wwafkUZgoGnajvFEXI65jtVIvADF7tU-=s96-rw" width="100" height="100" />
 
-- Android [Link Google Store](https://play.google.com/store/apps/details?id=com.gamee.brainly.homepin3.pullpin.puzzle)
-- Ios [Link Apple Store](https://apps.apple.com/vn/app/home-pin-3d/id6451407662?l=vi)
+- [Android](https://play.google.com/store/apps/details?id=com.gamee.brainly.homepin3.pullpin.puzzle)
+- [iOS](https://apps.apple.com/vn/app/home-pin-3d/id6451407662?l=vi)
   
 </details>
 
@@ -59,22 +58,22 @@
 
 <img src="https://play-lh.googleusercontent.com/XKVCtxX_Ws4ksCo18hXieSoeOkoKvZ34CQ07j3-H2AH8b1BLH6WnVPT1F3qGHY8GAbo=w240-h480-rw" width="100" height="100" />
 
-- Android [Link Google Store](https://play.google.com/store/apps/details?id=com.gamee.blue.monster.rainbow.escape&hl=en)
+- [Android](https://play.google.com/store/apps/details?id=com.gamee.blue.monster.rainbow.escape&hl=en)
 
 </details>
 <details><summary>⬇️ I developed the game <b>Kingdom Defense - Pull The Pin 3D</b></summary>
 
 <img src="https://play-lh.googleusercontent.com/ABaiy7Ftr2sAvOpQOCYKBtS24_31cKN4EN5LvP7xYmNmWJzRxIfz6nJya9fTCtFQEXPw=w240-h480-rw" width="100" height="100" />
 
-- Android [Link Google Store](https://play.google.com/store/apps/details?id=com.gamee.storm.kingdom.puzzle.games&referrer=utm_source%3Dapps.facebook.com%26utm_campaign%3Dfb4a%26utm_content%3D%257B%2522app%2522%253A0%252C%2522t%2522%253A1677418057%252C%2522source%2522%253Anull%257D&fbclid=IwAR30oLX4dIQy7tZIs6kdN1AEvfAu2Qi6nm3CuSGlYXvBgCwqYgxe0VvsgsI)
+- [Android](https://play.google.com/store/apps/details?id=com.gamee.storm.kingdom.puzzle.games&referrer=utm_source%3Dapps.facebook.com%26utm_campaign%3Dfb4a%26utm_content%3D%257B%2522app%2522%253A0%252C%2522t%2522%253A1677418057%252C%2522source%2522%253Anull%257D&fbclid=IwAR30oLX4dIQy7tZIs6kdN1AEvfAu2Qi6nm3CuSGlYXvBgCwqYgxe0VvsgsI)
 
 </details>
 <details><summary>⬇️ I developed with the game team <b>Pull Pin Out 3D</b></summary>
 
 <img src="https://play-lh.googleusercontent.com/KeqO81pupo8jvmHxowXYdnLDqGDG58na8H__xVWpeVfURtb3bebnYkWi45plE7YejcQ=s48-rw" width="100" height="100" />
 
-- Android [Link Google Store](https://play.google.com/store/apps/details?id=com.gamee.pull.pin.puzzle&hl=en)
-- Ios [Link Apple Store](https://apps.apple.com/us/app/pull-pin-out-3d/id6443933564)
+- [Android](https://play.google.com/store/apps/details?id=com.gamee.pull.pin.puzzle&hl=en)
+- [iOS](https://apps.apple.com/us/app/pull-pin-out-3d/id6443933564)
 
 </details>
 
@@ -82,7 +81,7 @@
 
 <img src="https://play-lh.googleusercontent.com/Ul2voFT2HWoBhvpHeXwqIIN7lk5ziDYDNo0K8VeiaRIHdqk-3mGebpH7AN4jIFMQy2PT=s48-rw" width="100" height="100" />
 
-- Android [Link Google Store](https://play.google.com/store/apps/details?id=com.gamee.elementsort&hl=en)
+- [Android](https://play.google.com/store/apps/details?id=com.gamee.elementsort&hl=en)
 
 </details>
 
