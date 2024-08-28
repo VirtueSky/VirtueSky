@@ -58,6 +58,7 @@
 <img src="https://play-lh.googleusercontent.com/4rR2H9UKDOBkhRhJMSGFx4i6iBZYpftMAphDVw51v2aUi9iWgvbM5sSfN3qDKV-U8ks=w526-h296-rw" />
 
 - [Android](https://play.google.com/store/apps/details?id=com.gamee.leftorright.makeover.fashion)
+- [iOS](https://apps.apple.com/vn/app/left-or-right-fashion-master/id6504503529?l=vi)
 
 </details>
 <details><summary>⬇️ I developed the game <b>Rainbow Alphabet Escape 3D</b></summary>
