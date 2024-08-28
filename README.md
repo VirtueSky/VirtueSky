@@ -31,7 +31,7 @@
 - [Object Pooling](https://github.com/wolf-org/object-pooling-unity)
 - [Tracking](https://github.com/wolf-org/app-tracking-unity)
 - [Firebase Remote Config](https://github.com/wolf-org/remote-config-manager-unity)
-
+- [Notifications-Unity](https://github.com/wolf-org/notification-unity)
 ### ✏️ Project Template
 - [Thebeginning](https://github.com/VirtueSky/TheBeginning)
 - [Thebeginning_2](https://github.com/VirtueSky/TheBeginning_2)
