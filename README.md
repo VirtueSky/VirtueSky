@@ -35,6 +35,7 @@
 ### ✏️ Project Template
 - [Thebeginning](https://github.com/VirtueSky/TheBeginning)
 - [Thebeginning_2](https://github.com/VirtueSky/TheBeginning_2)
+<!--
 ### ✏️ Project public Game Unity
 <details><summary>⬇️ I developed the game <b>Party Prank: Drink Challenge</b></summary>
   
@@ -92,7 +93,6 @@
 
 </details>
 
-<!--
 <details><summary>⬇️ Some mini game</summary>
 
 - Game MiniSweeper [Link gitHub](https://github.com/ducnv52/MiniSweeperUnity)
