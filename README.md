@@ -134,3 +134,5 @@
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VirtueSky&show_icons=true&locale=en" alt="VirtueSky" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=VirtueSky&" alt="VirtueSky" /></p>
+
+ ![Commit Stats](https://github-readme-activity-graph.vercel.app/graph?username=VirtueSky&theme=react-dark&point=66ccff) 
