@@ -140,7 +140,8 @@
 <p align="left"> <a href="https://github.com/VirtueSky"><img src="https://github-profile-trophy.vercel.app/?username=VirtueSky" alt="VirtueSky" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VirtueSky&show_icons=true&locale=en" alt="VirtueSky" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=VirtueSky&" alt="VirtueSky" /></p>
 <img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
+<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=VirtueSky&" alt="VirtueSky" /></p>
+
 
  ![Commit Stats](https://github-readme-activity-graph.vercel.app/graph?username=VirtueSky&theme=react-dark&point=66ccff) 
