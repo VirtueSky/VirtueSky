@@ -6,18 +6,13 @@
   <img  src = "https://github-production-user-asset-6210df.s3.amazonaws.com/126542083/274267368-16f24162-5de4-4510-a52d-75f4c1335fc1.PNG" width="300" height = "300">
 </p>
 
-<!--
+
 ### ✏️ Intro
 - 🎗️ I graduated from [University of Engineering and Technology (UET),  Vietnam National University, Hanoi (VNU)](https://uet.vnu.edu.vn/)
-
-- 👨‍💻 I did an internship at [GameLoft Company (Han Studio)](https://www.gameloft.com/gameloft-studios/hanoi)
 
 - 👨‍💻 I am working at [Gamee Studio Company](https://gameestudio.com/)
 
 - 💪 Target: **Develop many good game products on unity engine**
-
-- ⚡ My strengths: **Sociable, funny but always serious at work, good teamwork, always ready to work overtime when needed**
--->
 
 ### ✏️ Unity Package / Tool
 
