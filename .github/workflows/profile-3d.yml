@@ -19,7 +19,6 @@ jobs:
           
       - name: Commit & Push
         run: |
-          using: 'node20'
           git config user.name VirtueSky
           git config user.email virtuesky.0520@gmail.com
           git add -A .
