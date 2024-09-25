@@ -47,6 +47,8 @@
 - 📧 How to reach me **: ducnv.cntt0502@gmail.com**
 
 
+ ![Commit Stats](https://github-readme-activity-graph.vercel.app/graph?username=VirtueSky&theme=react-dark&point=66ccff) 
+
 <p align="left">
 </p>
 
@@ -60,7 +62,5 @@
 <img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 <p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=VirtueSky&" alt="VirtueSky" /></p>
 
-
- ![Commit Stats](https://github-readme-activity-graph.vercel.app/graph?username=VirtueSky&theme=react-dark&point=66ccff) 
 
  ![github-user-contribution](https://github.com/user-attachments/assets/ce05a2e3-fc7f-419c-8ca9-f554c14c6094)
