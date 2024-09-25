@@ -17,7 +17,7 @@ jobs:
 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ VirtueSky }}
+          USERNAME: ${{ github.VirtueSky }}
           
       - name: Commit & Push
         run: |
