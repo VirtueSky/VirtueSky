@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img  src = "https://upload.wikimedia.org/wikipedia/commons/0/07/Flag_of_Vietnam-Animated.gif">
+</p>
+
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm Duc</h1>
 <h3 align="center">I'm a unity game developer</h3>
