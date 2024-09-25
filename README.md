@@ -69,3 +69,11 @@
  ![github-user-contribution](https://github.com/user-attachments/assets/ce05a2e3-fc7f-419c-8ca9-f554c14c6094)
 
  -->
+
+ <p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/<github_user>/<repository>/output-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<github_user>/<repository>/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/<github_user>/<repository>/output-3d-contrib/day.svg" />
+	</picture>
+</p>
