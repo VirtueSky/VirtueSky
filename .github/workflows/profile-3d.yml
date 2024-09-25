@@ -13,8 +13,8 @@ jobs:
       - uses: actions/checkout@v3
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${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}
-          USERNAME: ${VirtueSky}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.VirtueSky }}
       - name: Commit & Push
         run: |
           git config user.name VirtueSky
