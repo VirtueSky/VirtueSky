@@ -12,20 +12,20 @@
 </p>
 
 
-### ✏️ Intro
+### ✏️ Introduction
 - 🎗️ I graduated from [University of Engineering and Technology (UET),  Vietnam National University, Hanoi (VNU)](https://uet.vnu.edu.vn/)
 
 - 👨‍💻 I am working at [Gamee Studio Company](https://gameestudio.com/)
 
-- 💪 Target: **Develop many good game products on unity engine**
+- 💪 Target: **Develop many good game products on Unity engine**
 
-### ✏️ Unity Package / Tool
+### ✏️ Unity Packages / Tools
 
-| Package / Tool | Description  |
+| Packages / Tools | Description  |
 | :------------- |:------------ | 
 | [Sunflower](https://github.com/VirtueSky/sunflower) | Core ScriptableObject architecture for building Unity games (Android & iOS) | 
 | [Sunflower_2](https://github.com/wolf-org/sunflower_2)  | Core for building Unity games (Android & iOS) | 
-|[Advertising](https://github.com/wolf-org/advertising-unity)   | Support advertising unity (Max-Applovin, Google Mobile Ads and IronSource-UnityLevelPlay) |  
+|[Advertising](https://github.com/wolf-org/advertising-unity)   | Support advertising vendors like: Max-Applovin, Google Mobile Ads and IronSource-UnityLevelPlay |  
 |[In App Purchasing](https://github.com/wolf-org/in-app-purchasing-unity)| Support Unity IAP |
 |[Game Data System](https://github.com/wolf-org/game-data-unity)|System game data unity (Unity 2022.3)|
 |[Object Pooling](https://github.com/wolf-org/object-pooling-unity)|Object Pooling for Unity - Easy to use|
@@ -34,7 +34,7 @@
 |[Notifications-Unity](https://github.com/wolf-org/notification-unity)|Support scheduling local one-time or repeatable notifications for Unity games (Android and iOS)|
 
   
-### ✏️ Project Template
+### ✏️ Project Templates
 
 |Template|Description|
 |:---------|:--------|
