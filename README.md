@@ -32,6 +32,7 @@
 |[Tracking](https://github.com/wolf-org/app-tracking-unity)|Tracking for game unity|
 |[Firebase Remote Config](https://github.com/wolf-org/remote-config-manager-unity)|Tool support use firebase remote config for game unity|
 |[Notifications-Unity](https://github.com/wolf-org/notification-unity)|Support scheduling local one-time or repeatable notifications for Unity games (Android and iOS)|
+|[Native Ads](https://github.com/unity-package/native-ads-unity)|Admob Native Ads for Unity integration|
 
   
 ### ✏️ Project Templates
