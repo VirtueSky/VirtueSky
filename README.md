@@ -14,9 +14,6 @@
 
 ### ✏️ Introduction
 - 🎗️ I graduated from [University of Engineering and Technology (UET),  Vietnam National University, Hanoi (VNU)](https://uet.vnu.edu.vn/)
-
-- 👨‍💻 I am working at [Gamee Studio](https://gameestudio.com/)
-
 - 💪 Target: **Develop many good game products on Unity engine**
 
 ### ✏️ Unity Packages / Tools
