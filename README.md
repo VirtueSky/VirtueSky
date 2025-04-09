@@ -21,7 +21,7 @@
 | Packages / Tools | Description  |
 | :------------- |:------------ | 
 | [Sunflower](https://github.com/VirtueSky/sunflower) | Core ScriptableObject architecture for building Unity games (Android & iOS) | 
-| [Sunflower_2](https://github.com/wolf-org/sunflower_2)  | Core for building Unity games (Android & iOS) | 
+| [Sunflower_2](https://github.com/VirtueSky/sunflower_2)  | Core for building Unity games (Android & iOS) | 
 |[Advertising](https://github.com/wolf-org/advertising-unity)   | Support advertising vendors like: Max-Applovin, Google Mobile Ads and IronSource-UnityLevelPlay |  
 |[In App Purchasing](https://github.com/wolf-org/in-app-purchasing-unity)| Support Unity IAP |
 |[Game Data System](https://github.com/wolf-org/game-data-unity)|System game data unity (Unity 2022.3)|
