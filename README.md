@@ -46,11 +46,13 @@
 |[Getting started with Git](https://github.com/unity-learn/Getting-Started-with-Git)|Git/GitHub tutorial|
 |[Mobile Game Production Process](https://github.com/unity-learn/mobile-game-production-process)|Mobile game production process - Unity|
 |[csharp-collection-notes](https://github.com/unityvn/csharp-collection-notes)|Summary of notes on collection data types in C#|
+|[Android Device Monitor - Android logcat tool](https://github.com/unityvn/android_device_monitor_tool_logcat)|Android Device Monitor - Android logcat tool installed in unity|
 
 ### ✏️ Issue
 |Content|Description|
 |:------|:----------|
 |[Unity Doesn't Recreate FirebaseApp.dll in Plugins/Android](https://github.com/unityvn/unity-does-not-recreate-FirebaseApp-in-android-plugin)|Issue FirebaseApp.dll cached data from old game|
+|[How to detect regions in Unity](https://github.com/unityvn/how-to-detect-region-unity)|Detect Region in Unity|
 
 <img align="right" alt="Coding" width="250" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
