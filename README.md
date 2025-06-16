@@ -30,6 +30,8 @@
 |[Firebase Remote Config](https://github.com/wolf-org/remote-config-manager-unity)|Tool support use firebase remote config for game unity|
 |[Notifications-Unity](https://github.com/wolf-org/notification-unity)|Support scheduling local one-time or repeatable notifications for Unity games (Android and iOS)|
 |[Native Ads](https://github.com/unity-package/native-ads-unity)|Admob Native Ads for Unity integration|
+|[System Region Unity](https://github.com/unity-package/system-region-unity)|Region Detection for Unity (Android/iOS)|
+|[Google Signin Unity](https://github.com/unity-package/google-signin-unity)|Forked to upgrade base library to newer version|
 
   
 ### ✏️ Project Templates
