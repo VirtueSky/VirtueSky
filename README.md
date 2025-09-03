@@ -49,6 +49,7 @@
 |[Getting started with Git](https://github.com/unity-learn/Getting-Started-with-Git)|Git/GitHub tutorial|
 |[Mobile Game Production Process](https://github.com/unity-learn/mobile-game-production-process)|Mobile game production process - Unity|
 |[csharp-collection-notes](https://github.com/unityvn/csharp-collection-notes)|Summary of notes on collection data types in C#|
+|[Clean code in Unity](https://github.com/unityvn/clean-code-in-unity)|How to clean code in Unity?|
 |[Android Device Monitor - Android logcat tool](https://github.com/unityvn/android_device_monitor_tool_logcat)|Android Device Monitor - Android logcat tool installed in unity|
 
 ### ✏️ Issue
