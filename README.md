@@ -57,6 +57,7 @@
 |:------|:----------|
 |[Unity Doesn't Recreate FirebaseApp.dll in Plugins/Android](https://github.com/unityvn/unity-does-not-recreate-FirebaseApp-in-android-plugin)|Issue FirebaseApp.dll cached data from old game|
 |[How to detect regions in Unity](https://github.com/unityvn/how-to-detect-region-unity)|Detect Region in Unity|
+|[unity-addressables-duplicate-asset-issue](https://github.com/unityvn/unity-addressables-duplicate-asset-issue)|Unity Addressables – Case Study: Asset Duplication|
 
 <img align="right" alt="Coding" width="250" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
