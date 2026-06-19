@@ -27,11 +27,10 @@
 |[Game Data System](https://github.com/wolf-org/game-data-unity)|System game data unity (Unity 2022.3)|
 |[Object Pooling](https://github.com/wolf-org/object-pooling-unity)|Object Pooling for Unity - Easy to use|
 |[Tracking](https://github.com/wolf-org/app-tracking-unity)|Tracking for game unity|
-|[Firebase Remote Config](https://github.com/wolf-org/remote-config-manager-unity)|Tool support use firebase remote config for game unity|
+|[Firebase Remote Config Source Generator](https://github.com/unity-package/RemoteConfigGenerator)|Tool support use firebase remote config for game unity|
 |[Notifications-Unity](https://github.com/wolf-org/notification-unity)|Support scheduling local one-time or repeatable notifications for Unity games (Android and iOS)|
 |[Native Ads](https://github.com/unity-package/native-ads-unity)|Admob Native Ads for Unity integration|
 |[System Region Unity](https://github.com/unity-package/system-region-unity)|Region Detection for Unity (Android/iOS)|
-|[Google Signin Unity](https://github.com/unity-package/google-signin-unity)|Forked to upgrade base library to newer version|
 |[Disk Space Check Unity](https://github.com/unity-package/disk-space-checker-unity)|Check disk space for unity (Android & iOS) by native|
 
   
