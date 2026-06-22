@@ -15,6 +15,7 @@
 ### ✏️ Introduction
 - 🎗️ I graduated from [University of Engineering and Technology (UET),  Vietnam National University, Hanoi (VNU)](https://uet.vnu.edu.vn/)
 - 💪 Target: **Develop many good game products on Unity engine**
+- 👑 Admin [Unity Share - Find the way to become a senior](https://www.facebook.com/share/g/1976NWjzBC/?mibextid=wwXIfr)
 
 ### ✏️ Unity Packages / Tools
 
